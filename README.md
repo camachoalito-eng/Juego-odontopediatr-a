@@ -349,7 +349,7 @@
         <div class="recap-item"><span class="ic">💧</span><span>El biofilm es casi invisible a simple vista: la tinción reveladora lo tiñe para mostrarte justo dónde te falta limpiar.</span></div>
         <div class="recap-item"><span class="ic">🍬</span><span>El azúcar alimenta a las bacterias de tu boca y acelera la formación de biofilm.</span></div>
         <div class="recap-item"><span class="ic">🪥</span><span>Cepillo e hilo dental son tu rutina diaria de defensa, pero no siempre llegan a todos lados.</span></div>
-        <div class="recap-item"><span class="ic">🦷</span><span>La profilaxis profesional elimina la placa dental endurecida que tu rutina diaria no puede quitar.</span></div>
+        <div class="recap-item"><span class="ic">🦷</span><span>La profilaxis profesional elimina la placa dental endurecida y biofilme que tu rutina diaria no puede quitar.</span></div>
       </div>
 
       <button class="btn" id="retryBtn">Jugar de nuevo</button>

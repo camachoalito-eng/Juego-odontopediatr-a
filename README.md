@@ -347,7 +347,7 @@
 
       <div class="recap">
         <div class="recap-item"><span class="ic">💧</span><span>El biofilm es casi invisible a simple vista: la tinción reveladora lo tiñe para mostrarte justo dónde te falta limpiar.</span></div>
-        <div class="recap-item"><span class="ic">🍬</span><span>El azúcar alimenta a las bacterias de tu boca y acelera la formación de placa.</span></div>
+        <div class="recap-item"><span class="ic">🍬</span><span>El azúcar alimenta a las bacterias de tu boca y acelera la formación de biofilm.</span></div>
         <div class="recap-item"><span class="ic">🪥</span><span>Cepillo e hilo dental son tu rutina diaria de defensa, pero no siempre llegan a todos lados.</span></div>
         <div class="recap-item"><span class="ic">🦷</span><span>La profilaxis profesional elimina la placa dental endurecida que tu rutina diaria no puede quitar.</span></div>
       </div>
@@ -366,7 +366,7 @@
 
         <div class="gloss-item">
           <div class="gloss-icon blob-icon"></div>
-          <div class="gloss-text"><h5>Biofilm</h5><p>La placa bacteriana que se forma todo el día sobre tus dientes. Es pegajosa y casi invisible a simple vista.</p></div>
+          <div class="gloss-text"><h5>Biofilm</h5><p>El biofilme dental que se forma todo el día sobre tus dientes. Contiene bacterias y es casi invisible a simple vista.</p></div>
         </div>
         <div class="gloss-item">
           <div class="gloss-icon">🍔</div>
@@ -374,15 +374,15 @@
         </div>
         <div class="gloss-item">
           <div class="gloss-icon">🦠</div>
-          <div class="gloss-text"><h5>Bacterias</h5><p>Los microorganismos que viven dentro del biofilm y producen ácidos que desgastan el esmalte.</p></div>
+          <div class="gloss-text"><h5>Bacterias</h5><p>Los microorganismos que viven dentro del biofilme y producen ácidos que desgastan el diente.</p></div>
         </div>
         <div class="gloss-item">
           <div class="gloss-icon">🍬</div>
-          <div class="gloss-text"><h5>Dulces</h5><p>El azúcar es el alimento favorito de las bacterias. Comerlos te quita una vida y acelera la formación de placa dental.</p></div>
+          <div class="gloss-text"><h5>Dulces</h5><p>El azúcar es el alimento favorito de las bacterias. Comerlos te quita una vida y acelera la formación de biofilme dental.</p></div>
         </div>
         <div class="gloss-item">
           <div class="gloss-icon sarro-icon">🪨</div>
-          <div class="gloss-text"><h5>Placa dental</h5><p>Biofilm que no se quitó a tiempo y se endureció (calcificó). Ya no sale con el cepillo: solo el dentista puede quitarlo.</p></div>
+          <div class="gloss-text"><h5>Placa dental</h5><p>Biofilme que no se quitó a tiempo y se endureció (calcificó). Ya no sale con el cepillo: solo el dentista puede quitarlo.</p></div>
         </div>
 
         <div class="gloss-section-title">✅ RECOGE — tus herramientas</div>
@@ -393,7 +393,7 @@
         </div>
         <div class="gloss-item">
           <div class="gloss-icon">🪥</div>
-          <div class="gloss-text"><h5>Cepillo dental</h5><p>Tu primera línea de defensa diaria: elimina el biofilm blando de la superficie de los dientes.</p></div>
+          <div class="gloss-text"><h5>Cepillo dental</h5><p>Tu primera línea de defensa diaria: elimina el biofilm de la superficie de los dientes.</p></div>
         </div>
         <div class="gloss-item">
           <div class="gloss-icon">🧵</div>
@@ -401,7 +401,7 @@
         </div>
         <div class="gloss-item">
           <div class="gloss-icon">🦷</div>
-          <div class="gloss-text"><h5>Dentista (profilaxis)</h5><p>La limpieza profesional que elimina la placa dental endurecida y acumulada que tu rutina diaria no puede quitar sola.</p></div>
+          <div class="gloss-text"><h5>Dentista (profilaxis)</h5><p>La limpieza profesional que elimina la placa dental endurecida y biofilme acumulado que tu rutina diaria no puede quitar sola.</p></div>
         </div>
       </div>
 
@@ -447,9 +447,9 @@
 
   const FACTS = {
     tincion:"💡 El biofilm es casi invisible: la tinción reveladora lo tiñe para que puedas verlo y cepillarlo bien.",
-    candy:"💡 El azúcar alimenta a las bacterias de tu boca y acelera la formación de placa.",
+    candy:"💡 El azúcar alimenta a las bacterias de tu boca y acelera la formación de biofilme.",
     rutina:"💡 Cepillarte y usar hilo dental a diario es tu rutina de defensa, ¡pero no llega a todos lados!",
-    dentista:"💡 La profilaxis profesional elimina la placa dental endurecida que tu rutina diaria no puede quitar."
+    dentista:"💡 La profilaxis profesional elimina la placa dental endurecida y biofilme que tu rutina diaria no puede quitar."
   };
 
   let entities = [];
